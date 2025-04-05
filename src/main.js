@@ -12,9 +12,13 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 // 引入 Font Awesome
 import '@fortawesome/fontawesome-free/css/all.min.css'
 
+// 引入 Swiper
+import 'swiper/css'
+import 'swiper/css/pagination'
+import 'swiper/css/navigation'
+
 // 引入自定義 CSS
 import './assets/css/templatemo-villa-agency.css'
-import './assets/css/owl.css'
 import './assets/css/animate.css'
 
 
