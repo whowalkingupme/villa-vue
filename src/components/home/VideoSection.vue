@@ -51,7 +51,7 @@
       h2 {
         font-size: 30px;
         font-weight: 700;
-        color: #1e1e1e;
+        color: #ffffff;
         line-height: 40px;
       }
     }
