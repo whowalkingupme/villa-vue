@@ -168,14 +168,14 @@ body {
 
 .icon-button a i {
   background-color: #f35525;
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
   text-align: center;
   border-radius: 50%;
-  line-height: 50px;
+  line-height: 40px;
   display: inline-block;
   margin-right: 15px;
-  margin-left: -1px;
+  margin-left: 6px;
 }
 
 .icon-button a:hover {
